@@ -1,0 +1,5 @@
+Hi! there I am Prajit Shandilya, the developer of Destiny. I am 14 years old and I study in Dav Public School Sasaram.
+I learn programming and I designed Destiny only for practicing my concepts. But I keep on working Destiny day by day and made it a full ai assistant.
+I also designed the GUI for her.
+Destiny can do certain functions in your system .....if you want more, you have to update(programme) her.
+That's all about me. Thank You Guys!

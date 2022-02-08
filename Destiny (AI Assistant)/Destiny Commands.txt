@@ -1,0 +1,106 @@
+[name of object or person] wikipedia:
+for accessing wikipedia
+
+open youtube:
+for opening youtube
+
+open google:
+for opening google
+
+open my website:
+for opening my whitehat junior website
+
+expo:
+for opening snack.expo.io
+
+internet speed:
+for checking internet speed
+
+github:
+for opening github
+
+white hat:
+for opening whitehatjr 
+
+amazon:
+for opening amazon
+
+play music:
+for playing music
+
+time:
+for fetching time
+
+firefox:
+for opening firefox
+
+telegram:
+for opening telegram
+
+thank you:
+speak your welcome
+
+sorry:
+speak no problem
+
+hi or hello:
+for greetings
+
+designed:
+for designer name
+
+your name:
+for Destiny's name
+
+nice:
+speak thank u sir
+
+temperatur:
+for fetching temperature
+
+how are you:
+speak I am fine
+
+who are you:
+for intro
+
+whre we are or where i am :
+for location
+
+screenshot:
+for taking  a screenshot
+
+how much power left or battery:
+for battery percentage
+
+how to do mod or how to do mode:
+for activating how to do mode
+
+mobile camra:
+for accessing mobile camera
+
+news:
+for ffetching latest news
+
+weather:
+for fetching weather card
+
+
+read PDF:
+for reading a pdf
+
+send a message:
+for sending message on whatsapp
+
+Space Station:
+for tracking iss
+
+phone number or mobile number:
+for tracking number details
+
+qr code or QR code:
+for making qr ode
+
+sketch:
+for making pencil sketch
+
